@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi,%20I'm%20Jayanth&animation=twinkling&fontSize=60&fontAlign=30&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi,%20I'm%20Jayanth&animation=twinkling&fontSize=60&fontAlign=30&fontAlignY=40&customColorList=7,9,10,16,20,22,23)
 
 👀 Work in progress lol ...
