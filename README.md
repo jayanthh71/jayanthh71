@@ -1,4 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=225&section=header&text=Hi,%20I'm%20Jayanth&animation=twinkling&fontSize=60&fontAlign=30&fontAlignY=40&customColorList=7,9,10,16,20,22,23)
-![github stats](https://github-readme-stats.vercel.app/api?username=jayanthh71&show_icons=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&rank_icon=github&hide=issues,contribs&theme=bear)
+# Hello There! 👋🏽
 
-![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthh71&theme=bear&layout=compact)
+I'm Jayanth, an aspiring developer, designer and universiry student. I design and develop random projects in my free time.
+
+## Languages and tools i use
+![languages](https://skillicons.dev/icons?i=html,css,js,react,nodejs,swift,c,py,mysql)
+
+![tools](https://skillicons.dev/icons?i=apple,figma,git,vscode)
+
+### I'm currently Learning
+![learning](https://skillicons.dev/icons?i=mongodb,express,nextjs)
+
+## Where to find me
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/jayanthh71)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:jayanth37069@gmail.com)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jayanthh.h)
