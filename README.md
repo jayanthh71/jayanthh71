@@ -1,14 +1,14 @@
 # Hello There! 👋🏽
 
-I'm Jayanth, an aspiring developer, designer and universiry student. I design and develop random projects in my free time.
+I’m Jayanth, a passionate developer, designer, and university student. I create random projects in my free time.
 
 ## Languages and tools i use
-![languages](https://skillicons.dev/icons?i=html,css,js,react,nodejs,swift,c,py,mysql)
+[![languages](https://skillicons.dev/icons?i=html,css,js,react,nodejs,swift,c,py,mysql)]()
 
-![tools](https://skillicons.dev/icons?i=apple,figma,git,vscode)
+[![tools](https://skillicons.dev/icons?i=figma,git,vscode)]()
 
 ### I'm currently Learning
-![learning](https://skillicons.dev/icons?i=mongodb,express,nextjs)
+[![learning](https://skillicons.dev/icons?i=ts,vite,nextjs)]()
 
 ## Where to find me
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/jayanthh71)
