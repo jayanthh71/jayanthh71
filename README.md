@@ -3,10 +3,10 @@
 I’m Jayanth, a passionate developer, designer, and university student. I create random projects in my free time.
 
 ## Languages and tools I use
-[![languages&tools](https://skillicons.dev/icons?i=html,css,js,react,nodejs,swift,c,py,mysql,figma,git)](#)
+[![languages&tools](https://skillicons.dev/icons?i=html,css,js,react,nodejs,swift,c,py,mysql,figma,git)]()
 
 ### I'm currently Learning
-[![learning](https://skillicons.dev/icons?i=ts,sass,tailwind,nextjs)](#)
+[![learning](https://skillicons.dev/icons?i=ts,sass,tailwind,nextjs)]()
 
 ## Where to find me
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/jayanthh71)&nbsp;
