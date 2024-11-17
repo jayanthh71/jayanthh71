@@ -12,7 +12,7 @@ I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiru
 
 ## 🔎 Where to find me
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jayanthh71)&nbsp;
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jayanthh71)&nbsp;
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/jayanthh71)&nbsp;
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jayanthh.h)&nbsp;
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:jayanth37069@gmail.com)&nbsp;
