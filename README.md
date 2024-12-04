@@ -4,11 +4,7 @@ I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiru
 
 ## ⚡️ Technologies
 
-[![languages&tools](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nodejs,swift,py,figma)]()
-
-### Currently learning
-
-[![learning](https://skillicons.dev/icons?i=nextjs,tailwind)]()
+[![technologies](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,swift,py,figma)]()
 
 ## 🔎 Where to find me
 
