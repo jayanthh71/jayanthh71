@@ -6,6 +6,10 @@ I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiru
 
 [![technologies](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,swift,py,figma)]()
 
+### 👨🏽‍💻 Learning
+
+[![learning](https://skillicons.dev/icons?i=rust,go)]()
+
 ## 🔎 Where to find me
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jayanthh71)&nbsp;
