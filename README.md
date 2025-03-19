@@ -4,15 +4,15 @@ I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiru
 
 ## ⚡️ Technologies
 
-[![technologies](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,swift,py,figma)]()
+[![technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,swift,py,figma)]()
 
 ### 👨🏽‍💻 Learning
 
-[![learning](https://skillicons.dev/icons?i=rust,go)]()
+[![learning](https://go-skill-icons.vercel.app/api/icons?i=rust,go,docker)]()
 
 ## 🔎 Where to find me
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/jayanthh71)&nbsp;
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/jayanthh71)&nbsp;
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jayanthh.h)&nbsp;
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:jayanth37069@gmail.com)&nbsp;
+[![linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/jayanthh71)&nbsp;
+[![github](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/jayanthh71)&nbsp;
+[![instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://instagram.com/jayanthh.h)&nbsp;
+[![gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:jayanth37069@gmail.com)&nbsp;
