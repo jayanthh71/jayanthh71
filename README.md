@@ -1,10 +1,22 @@
-# Hello There! 👋🏽
+# Eventix
+
+### By Jayanth Ramesh Kumar# Hello There! 👋🏽
 
 I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiruchirappalli](https://www.nitt.edu). I love designing and developing random projects in my free time.
 
-## ⚡️ Technologies
+## What I use
 
-[![technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,swift,py,figma&theme=dark)]()
+### 💻 Languages
+
+[![languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,swift,py,postgresql&theme=dark)]()
+
+### ⚡️ Technologies
+
+[![technologies](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,tailwind,nodejs,prisma,aws&theme=dark)]()
+
+### 🛠️ Tools
+
+[![tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,pnpm,vscode,warp&theme=dark)]()
 
 ### 👨🏽‍💻 Learning
 
