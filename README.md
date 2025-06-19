@@ -1,6 +1,4 @@
-# Eventix
-
-### By Jayanth Ramesh Kumar# Hello There! 👋🏽
+# Hello There! 👋🏽
 
 I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiruchirappalli](https://www.nitt.edu). I love designing and developing random projects in my free time.
 
