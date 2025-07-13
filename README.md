@@ -14,11 +14,11 @@ I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiru
 
 ### 🛠️ Tools
 
-[![tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,pnpm,vscode,cursor,warp&theme=dark)]()
+[![tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,pnpm,vscode,cursor,warp&theme=dark)]()
 
 ### 👨🏽‍💻 Learning
 
-[![learning](https://go-skill-icons.vercel.app/api/icons?i=rust,go,docker&theme=dark)]()
+[![learning](https://go-skill-icons.vercel.app/api/icons?i=svelte,rust,go&theme=dark)]()
 
 ## 🔎 Where to find me
 
