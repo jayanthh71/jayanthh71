@@ -14,7 +14,7 @@ I'm Jayanth, an undergraduate student at [National Institute of Technology, Tiru
 
 ### 🛠️ Tools
 
-[![tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,pnpm,vscode,cursor,warp&theme=dark)]()
+[![tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,pnpm,vscode,warp&theme=dark)]()
 
 ### 👨🏽‍💻 Learning
 
